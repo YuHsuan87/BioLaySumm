@@ -1,0 +1,6 @@
+torch == "*"
+textstat == "*"
+tqdm == "*"
+transformers == "*"
+datasets == "*"
+rouge == "*"
